@@ -5,7 +5,7 @@ By using our Service you understand and agree that we are providing a platform f
 
 Our Policy applies to all visitors, users, and others who access the Service (“Users”).
 
-Click on the links below to jump to each section of this Policy:
+Section of this Policy:
 1.Information We Collect
 2.How We Use Your Information
 3.Sharing of Your Information
