@@ -15,11 +15,11 @@ Analytics information:
 We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
 
 Cookies and similar technologies:
-When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use PokerBros and provide features to you.
+When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use Baccarat House and provide features to you.
 We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.
 
 Device identifiers:
-When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by PokerBros.
+When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Baccarat House.
 
 A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
@@ -55,7 +55,7 @@ Any information or content that you voluntarily disclose for posting to the Serv
 
 ## 4.How We Store Your Information
 Storage and Processing:
-Your information collected through the Service may be stored and processed in the United States or any other country in which PokerBros, its Affiliates or Service Providers maintain facilities.
+Your information collected through the Service may be stored and processed in the United States or any other country in which Baccarat House, its Affiliates or Service Providers maintain facilities.
 Baccarat House , its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
 We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Baccarat House  cannot ensure the security of any information you transmit to Baccarat House or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
