@@ -5,18 +5,6 @@ By using our Service you understand and agree that we are providing a platform f
 
 Our Policy applies to all visitors, users, and others who access the Service (“Users”).
 
-Section of this Policy:
-1.Information We Collect
-2.How We Use Your Information
-3.Sharing of Your Information
-4.How We Store Your Information
-5.Your Choices About Your Information
-6.Children’s Privacy
-7.Other Websites and Services
-8.How to Contact Us About a Deceased User
-9.How to Contact Us
-10.Changes to Our Privacy Policy
-
 ## 1. Information We Collect
 We collect the following types of information.
 Information you provide us directly:from the Services whether submitted by you or others.
